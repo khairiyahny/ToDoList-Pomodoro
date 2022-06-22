@@ -5,5 +5,4 @@ Program manajemen waktu yang berisi 2 fitur:
 Pengguna akan diminta membuat koneksi ke database dan login terlebih dahulu
 
 Tampilan:
-![image](https://user-images.githubusercontent.com/76420075/174969640-f4adbba9-a73d-46d5-a586-ae42b4b4d95e.png)
-![image](https://user-images.githubusercontent.com/76420075/174969681-1446b574-cf2f-481a-aeec-d683ae3a59cc.png)
+![image](https://user-images.githubusercontent.com/76420075/174970414-db774208-819c-4cc5-9dc9-14575522c52e.png)
